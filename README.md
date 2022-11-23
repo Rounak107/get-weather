@@ -12,24 +12,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/Rounak107/get-weather">
     <img src="https://freepngimg.com/thumb/weather/23527-3-weather-thumb.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Get Weather</h3>
 
-  <p align="center">
-    Access weather of different cities and other weather realated data
-    <br />
-    <a href="https://github.com/surajondev/get-weather"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://surajondev.github.io/get-weather/">View Demo</a>
-    ·
-    <a href="https://github.com/surajondev/get-weather/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/surajondev/get-weather/issues">Request Feature</a>
-  </p>
 </p>
 
 
@@ -52,11 +40,8 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -64,8 +49,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://surajondev.github.io/get-weather/)
 
 The project is to provide information to the people regarding the weather of different location.
 Its is powered by OpenWeather API.
@@ -77,7 +60,7 @@ Its is powered by OpenWeather API.
 * [OpenWeather API](https://openweathermap.org/)
 
 ## Deploy
-- The web app is deployed on GitHub Pages.
+- The web app is not deployed yet.
 
 
 <!-- GETTING STARTED -->
@@ -98,7 +81,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/surajondev/get-weather.git
+   git clone https://github.com/Rounak107/get-weather
    ```
 2. Install NPM packages
    ```sh
@@ -112,7 +95,7 @@ This is an example of how to list things you need to use the software and how to
 
 You can easily enter the name of city and then it will fetch all the weather information regarding it.
 
-
+![image](./screenshot.png)
 
 
 <!-- CONTRIBUTING -->
@@ -121,9 +104,9 @@ You can easily enter the name of city and then it will fetch all the weather inf
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b helpere/forFeature`)
+3. Commit your Changes (`git commit -m 'Add some forFeature'`)
+4. Push to the Branch (`git push origin helper/forFeature`)
 5. Open a Pull Request
 
 
